@@ -1,5 +1,6 @@
 car = 34
 warplane = 64
 bus = 128
+car01 = 10
 
-print (car+warplane+bus)
+print (arac+ucak+bus+car01)
