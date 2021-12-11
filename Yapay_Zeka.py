@@ -1,4 +1,4 @@
-arac = 34
-ucak = 64
+car = 34
+warplane = 64
 
-print (arac+ucak)
+print (car+warplane)
